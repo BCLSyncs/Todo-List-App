@@ -1,0 +1,32 @@
+/* My customization of the background color, font style & text*/
+
+body {
+  background-color: #ba4100;
+  font-family: 'Arial', Arial, serif; /* Would Import a different text*/
+  font-size: 20px;
+}
+/*Box Size and Color*/
+.todo-list-container {
+  max-width: 400px;
+  margin: 20px auto;
+  padding: 15px;
+  background-color: #ff9d00;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Add-on element classes */
+.todo-list {
+  list-style: none;
+  padding: 0;
+}
+
+.todo-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.todo-item button {
+  margin-left: 5px;
+}
