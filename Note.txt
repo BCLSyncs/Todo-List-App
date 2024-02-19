@@ -1,0 +1,15 @@
+Files that have been edited:
+
+Public Folder:
+- None
+
+Src folder:
+- index.css
+- index.js
+- TodoApp.css
+- TodoApp.js
+- TodoItems.js
+- TodoList.js
+
+Placeholder file:
+- App.test.js
